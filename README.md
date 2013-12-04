@@ -5,8 +5,8 @@ A very simple Templating engine for javascript
 Simple usage below: 
 
 
-<script id="tpl_display_info" type="text/html">
-<li class="pager">
-    %%INFO%% 
-</li>
-</script>
+&lt;script id="tpl_display_info" type="text/html"&gt; <br/>
+&lt;li class="pager"&gt; <br/>
+    %%INFO%% <br/>
+&lt;/li$&gt;<br/>
+&lt;/script&gt;<br/>
